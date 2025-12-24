@@ -1,4 +1,3 @@
-# CIS41B-FinalProject
 ## Overview
 This data analysis project is a deeply integrated assembly of numerous data analysis techniques. The objective of this work is to intricately analyze, visualize, and predict the performance of Fortune 500 companies across the US using a blend of technologies including SQLite for database management, pandas for data manipulation, sklearn for machine learning applications, and matplotlib for data visualization.
 
